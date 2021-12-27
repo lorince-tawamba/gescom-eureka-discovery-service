@@ -1,3 +1,6 @@
+# =================================
+# SERVICE CONFIGURATION
+# =================================
 spring:
   application:
     name: gescom-eureka-discovery-service
